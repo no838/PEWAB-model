@@ -21,7 +21,7 @@ The model integrates:
 ## 📁 Repository Structure
 
 - `main.py`: Main modeling script (provided above)
-- `final_daily_CHaonly_means_with_meteorological_with_air_quality_data.csv`: Input dataset
+- `data.csv`: Input dataset
 - `/output`: Model results and figures
 - `/output/figures`: Plots of feature importances and prediction results
 

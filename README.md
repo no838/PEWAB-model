@@ -1,7 +1,7 @@
 
 # PEWAB Model for Algal Bloom Forecasting
 
-This repository contains the complete implementation of the PEWAB (Precipitation–Environment–Water–Algal–Bloom) modeling framework, designed to predict chlorophyll-a concentration in inland lakes and rivers using environmental monitoring data and causal inference.
+This repository contains the complete implementation of the PEWAB (Proactive Early Warning Model of Algal Bloom) modeling framework, designed to predict chlorophyll-a concentration in inland lakes and rivers using environmental monitoring data and causal inference.
 
 ## 🧠 Model Overview
 
